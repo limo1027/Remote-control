@@ -1,0 +1,7 @@
+flask>=2.0.0
+pyautogui>=0.9.54
+qrcode>=7.3.1
+Pillow>=9.0.0
+pypiwin32>=223
+pygame-ce>=2.0.0
+winshell
